@@ -1,4 +1,4 @@
-let day = 2;
+let day = 1;
 switch (day) {
     case 0:
         console.log("Sunday — FUN Day");
@@ -14,4 +14,4 @@ switch (day) {
         console.log("Friday — Deployment & Retro");
     case 6:
         console.log("saturday — Rest Day");
-}
+}                             

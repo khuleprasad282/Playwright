@@ -6,4 +6,8 @@ if (statusCode == 200) {
     console.log("not found!");
 } else {
     console.log("Not magching status code!")
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e461cc9 (Update Java concepts operators and statements)

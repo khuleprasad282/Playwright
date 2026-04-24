@@ -28,4 +28,8 @@ switch (day) {
         console.log("Invalid day value");
 
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e461cc9 (Update Java concepts operators and statements)
