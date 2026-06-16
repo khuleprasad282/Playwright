@@ -1,4 +1,4 @@
-let url = "httpd://staging.vwo.com/api/login?retry=true";
+let url = "https://staging.vwo.com/api/login?retry=true";
 
 url.includes("staging");
 url.includes("Production");
